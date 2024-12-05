@@ -1,4 +1,6 @@
 
-Hola, este es mi nuevo archiv
+Clase master : archivos principales
 
-Y aquí está siendo actualizadoooo
+Calse review : Almacenar los archivos de las calses developer
+
+Rama developer : Modificar y crear nuevo codigo
