@@ -1,3 +1,11 @@
 .container-main{
     text-align: center;
 }
+.icono{
+    font-size: 40px;
+}
+
+#boton{
+    width: 100px;
+    height: 60px;
+}
